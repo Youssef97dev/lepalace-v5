@@ -75,7 +75,7 @@ const Toolbar = ({ gallery = false }) => {
         </div>
         <nav
           className={`w-full hidden lg:block transition-all duration-200 ease-linear font-light px-10 ${
-            isVisible ? "bg-transparent" : "bg-primary"
+            isVisible && !gallery ? "bg-transparent" : "bg-primary"
           }`}
         >
           <div className="max-w-full mx-auto px-4 py-2 flex justify-between items-center">
