@@ -47,7 +47,7 @@ const Toolbar = ({ gallery = false }) => {
         }`}
       >
         <div
-          className={`w-full flex justify-between items-center px-3 lg:px-8 pt-2 py-0 lg:py-2 bg-secondary text-primary text-[12px] leading-[18px] `}
+          className={`w-full flex justify-between items-center px-3 lg:px-8 pt-2 py-0 lg:py-0 bg-secondary text-primary text-[12px] leading-[18px] `}
         >
           <button
             className="text-primary py-2 px-4 tracking-widest"
