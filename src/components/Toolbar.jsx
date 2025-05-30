@@ -109,11 +109,7 @@ const Toolbar = ({ gallery = false }) => {
                 </Link>
               </li>
               <li>
-                <Link
-                  href="https://www.lesalamamarrakech.com/menu/"
-                  target="_blank"
-                  className="cursor-pointer p-2"
-                >
+                <Link href="/menu" className="cursor-pointer p-2">
                   {t("navbar.menu")}
                 </Link>
               </li>
