@@ -1,0 +1,41 @@
+{
+  "navbar": {
+    "home": "Home",
+    "restaurant": "Restaurant",
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "kitchen": "Kitchen",
+    "contact": "Contact",
+    "events": "Events",
+    "book": "Book",
+    "lang_text": "French",
+    "lang_code": "fr",
+    "our": "Our restaurants"
+  },
+  "about": {
+    "title": "Welcome To Le Palace Marrakech",
+    "content_1": "At Le Palace, where everything from the French-inspired food (and the prices) are over the top, the opulent decor is matched only by the clientele.",
+    "content_2": "The lighting throughout the space is rich and warm, and the owner, Nordine Fakir, credits it for much of the restaurant’s success. Most diners begin the evening sitting inside, but then make their way to the boudoir-esque basement, festooned in photos of Yves Saint Laurent, and where dancing on the furniture goes late into the night."
+  },
+  "kitchen": {
+    "title": "Exquisite Dining Experience Fit for Royalty",
+    "content_1": "Le Palace Marrakech is a symphony of refined flavors, where French gastronomy meets international and Moroccan influences. The chefs, true artists, orchestrate a rich and varied menu: signature langoustine and foie gras ravioli, carefully selected steaks, and fish sublimated by inventive accompaniments.",
+    "content_2": "Every dish, from the most classic to the most daring, is designed to delight the palate. A selection of prestigious French wines and creative cocktails complete this unique culinary experience, where tradition and modernity blend elegantly to sublimate every mouthful."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "subject": "Subject",
+    "send": "Send"
+  },
+  "booking": {
+    "title": "Booking Request",
+    "request": "Send Request",
+    "reservationDate": "Reservation Date",
+    "time": "Time",
+    "guests": "Guests Number"
+  }
+}

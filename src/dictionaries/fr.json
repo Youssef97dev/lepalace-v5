@@ -1,0 +1,41 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "restaurant": "Restaurant",
+    "menu": "La Carte",
+    "gallery": "Galerie",
+    "kitchen": "Cuisine",
+    "contact": "Contact",
+    "events": "Événements",
+    "book": "Réserver",
+    "lang_text": "Anglais",
+    "lang_code": "en",
+    "our": "Nos restaurants"
+  },
+  "about": {
+    "title": "Bienvenue au Palace Marrakech",
+    "content_1": "Au Le Palace, où tout, de la cuisine d'inspiration française (et les prix) est excessif, le décor opulent n'est égalé que par la clientèle.",
+    "content_2": "L'éclairage dans tout l'espace est riche et chaleureux, et le propriétaire, Nordine Fakir, lui attribue une grande partie du succès du restaurant. La plupart des convives commencent la soirée à l'intérieur, mais se dirigent ensuite vers le sous-sol, à l'allure de boudoir, orné de photos d'Yves Saint Laurent, où danser sur les meubles se prolonge jusqu'à tard dans la nuit."
+  },
+  "kitchen": {
+    "title": "Une expérience culinaire exquise digne d'un roi",
+    "content_1": "Le Palace Marrakech est une symphonie de saveurs raffinées, où la gastronomie française rencontre des influences internationales et marocaines. Les chefs, véritables artistes, orchestrent un menu riche et varié : des raviolis de langoustines et foie gras en signature, des steaks soigneusement sélectionnés, et des poissons sublimés par des accompagnements inventifs.",
+    "content_2": "Chaque plat, du plus classique au plus audacieux, est pensé pour émerveiller les palais. Une sélection de vins français prestigieux et des cocktails créatifs viennent compléter cette expérience culinaire unique, où tradition et modernité se marient avec élégance pour sublimer chaque bouchée​."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "firstname": "Prénom",
+    "lastname": "Nom",
+    "email": "E-mail",
+    "phone": "Numéro de téléphone",
+    "subject": "Sujet",
+    "send": "Envoyer"
+  },
+  "booking": {
+    "title": "Demande de réservation",
+    "request": "Envoyer une demande",
+    "reservationDate": "Date de réservation",
+    "time": "Heure",
+    "guests": "Nombre de personnes"
+  }
+}
