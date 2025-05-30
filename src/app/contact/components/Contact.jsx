@@ -33,7 +33,7 @@ const Contact = () => {
         <div className="w-full flex flex-col justify-start items-start">
           <span className=" font-semibold tracking-widest text-[16px]">{`Social`}</span>
           <div className="w-full text-primary py-3 flex justify-start items-center gap-3">
-            <Link href="http://wa.me/212675480018" target="_blank">
+            <Link href="http://wa.me/212675480101" target="_blank">
               <FaWhatsappSquare size={25} />
             </Link>
             <Link

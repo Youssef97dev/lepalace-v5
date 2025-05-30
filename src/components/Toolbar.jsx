@@ -56,11 +56,11 @@ const Toolbar = ({ gallery = false }) => {
             {t("navbar.lang_text")}
           </button>
           <div className="flex justify-center items-center gap-3 text-primary">
-            <Link href="http://wa.me/212675480018" target="_blank">
+            <Link href="http://wa.me/212675480101" target="_blank">
               <PiWhatsappLogo size={20} />
             </Link>
             <Link
-              href="https://www.instagram.com/lesalamamarrakech/"
+              href="https://www.instagram.com/lepalacemarrakech"
               target="_blank"
             >
               <PiInstagramLogo size={20} />
@@ -237,17 +237,17 @@ const Toolbar = ({ gallery = false }) => {
                 isVisible ? "text-white" : "text-secondary"
               }`}
             >
-              <Link href="http://wa.me/212675480018" target="_blank">
+              <Link href="http://wa.me/212675480101" target="_blank">
                 <PiWhatsappLogo size={25} />
               </Link>
               <Link
-                href="https://www.instagram.com/lesalamamarrakech/"
+                href="https://www.instagram.com/lepalacemarrakech"
                 target="_blank"
               >
                 <PiInstagramLogo size={25} />
               </Link>
               <Link
-                href="mailto:reservations@lesalamamarrakech.com"
+                href="mailto:reservation@le-palacemarrakech.com"
                 target="_blank"
               >
                 <FaMailBulk size={25} />
