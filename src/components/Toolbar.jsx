@@ -99,7 +99,7 @@ const Toolbar = ({ gallery = false }) => {
                 </Link>
               </li>
               <li>
-                <Link href="#about" className="cursor-pointer p-2">
+                <Link href="#restaurant" className="cursor-pointer p-2">
                   {t("navbar.restaurant")}
                 </Link>
               </li>

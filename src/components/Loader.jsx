@@ -3,6 +3,10 @@ import { useState, useEffect } from "react";
 import { BounceLoader } from "react-spinners";
 import Toolbar from "./Toolbar";
 import Hero from "./Hero";
+import DesktopContent from "./DesktopContent";
+import MobileContent from "./MobileContent";
+import About from "./About";
+import Footer from "./Footer";
 
 const Loader = () => {
   const [isClient, setIsClient] = useState(false);
@@ -16,9 +20,13 @@ const Loader = () => {
   return (
     <>
       {isClient ? (
-        <div className="relative h-[200vh]">
+        <div className="relative">
           <Toolbar />
           <Hero />
+          <MobileContent />
+          <DesktopContent />
+          <About />
+          <Footer />
 
           {/*<div className="fixed bottom-5 left-0 w-full block lg:hidden z-10">
             <Buttons />
