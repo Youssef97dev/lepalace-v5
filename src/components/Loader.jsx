@@ -7,6 +7,7 @@ import DesktopContent from "./DesktopContent";
 import MobileContent from "./MobileContent";
 import About from "./About";
 import Footer from "./Footer";
+import Kitchen from "./Kitchen";
 
 const Loader = () => {
   const [isClient, setIsClient] = useState(false);
@@ -26,6 +27,7 @@ const Loader = () => {
           <MobileContent />
           <DesktopContent />
           <About />
+          <Kitchen />
           <Footer />
 
           {/*<div className="fixed bottom-5 left-0 w-full block lg:hidden z-10">
