@@ -8,13 +8,14 @@ import MobileContent from "./MobileContent";
 import About from "./About";
 import Footer from "./Footer";
 import Kitchen from "./Kitchen";
+import Intro from "./Intro";
 
 const Loader = () => {
   const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {
     // Simulate loading time
-    const timer = setTimeout(() => setIsClient(true), 2500);
+    const timer = setTimeout(() => setIsClient(true), 1000);
     return () => clearTimeout(timer);
   }, []);
 
@@ -24,6 +25,7 @@ const Loader = () => {
         <div className="relative">
           <Toolbar />
           <Hero />
+          <Intro />
           <MobileContent />
           <DesktopContent />
           <About />
